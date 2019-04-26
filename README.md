@@ -4,7 +4,7 @@
 
 ### Table of Contents
 
-1. The Text Explained
+1. [The Text Explained](https://github.com/AgapePress/keeping-the-heart/blob/master/eng-text/chapter_01.md)
 
 ## Online Books
 
