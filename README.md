@@ -6,6 +6,7 @@
 
 1. [The Text Explained](https://github.com/AgapePress/keeping-the-heart/blob/master/eng-text/chapter_01.md)
 2. [Duties Included in Keeping the Heart](https://github.com/AgapePress/keeping-the-heart/blob/master/eng-text/chapter_02.md)
+3. [Reasons Why this Should be the Great Business of Life](https://github.com/AgapePress/keeping-the-heart/blob/master/eng-text/chapter_03.md)
 
 ## Online Books
 
