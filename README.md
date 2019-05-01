@@ -8,6 +8,7 @@
 2. [Duties Included in Keeping the Heart](https://github.com/AgapePress/keeping-the-heart/blob/master/eng-text/chapter_02.md)
 3. [Reasons Why this Should be the Great Business of Life](https://github.com/AgapePress/keeping-the-heart/blob/master/eng-text/chapter_03.md)
 4. [The Time of Prosperity](https://github.com/AgapePress/keeping-the-heart/blob/master/eng-text/chapter_04.md)
+5. [The Time of Adversity](https://github.com/AgapePress/keeping-the-heart/blob/master/eng-text/chapter_05.md)
 
 ## Online Books
 
