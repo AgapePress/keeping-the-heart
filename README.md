@@ -12,6 +12,7 @@
 6. [The Time of Zion's Troubles](https://github.com/AgapePress/keeping-the-heart/blob/master/eng-text/chapter_06.md)
 7. [The Time of Danger and Public Distraction](https://github.com/AgapePress/keeping-the-heart/blob/master/eng-text/chapter_07.md)
 8. [The Time of Outward Wants](https://github.com/AgapePress/keeping-the-heart/blob/master/eng-text/chapter_08.md)
+9. [The Season of Duty](https://github.com/AgapePress/keeping-the-heart/blob/master/eng-text/chapter_09.md)
 
 ## Online Books
 
