@@ -16,6 +16,7 @@
 10. [When We Receive Injuries and Abuses from Men](https://github.com/AgapePress/keeping-the-heart/blob/master/eng-text/chapter_10.md)
 11. [When We Meet with Great Trials](https://github.com/AgapePress/keeping-the-heart/blob/master/eng-text/chapter_11.md)
 12. [The Hour of Temptation](https://github.com/AgapePress/keeping-the-heart/blob/master/eng-text/chapter_12.md)
+13. [The Time of Doubting and Spiritual Darkness](https://github.com/AgapePress/keeping-the-heart/blob/master/eng-text/chapter_13.md)
 
 ## Online Books
 
