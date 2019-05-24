@@ -18,6 +18,7 @@
 12. [The Hour of Temptation](https://github.com/AgapePress/keeping-the-heart/blob/master/eng-text/chapter_12.md)
 13. [The Time of Doubting and Spiritual Darkness](https://github.com/AgapePress/keeping-the-heart/blob/master/eng-text/chapter_13.md)
 14. [When Sufferings for Religion are Laid on Us](https://github.com/AgapePress/keeping-the-heart/blob/master/eng-text/chapter_14.md)
+15. [When Sickness Warns that Death is Near](https://github.com/AgapePress/keeping-the-heart/blob/master/eng-text/chapter_15.md)
 
 ## Online Books
 
