@@ -21,6 +21,7 @@
 15. [When Sickness Warns that Death is Near](https://github.com/AgapePress/keeping-the-heart/blob/master/eng-text/chapter_15.md)
 16. [To Hypocrites and Formal Professors](https://github.com/AgapePress/keeping-the-heart/blob/master/eng-text/chapter_16.md)
 17. [Special Encouragement to the People of God](https://github.com/AgapePress/keeping-the-heart/blob/master/eng-text/chapter_17.md)
+18. [Ten Motives Exhorting to a Hearty Engagement in Keeping the Heart](https://github.com/AgapePress/keeping-the-heart/blob/master/eng-text/chapter_18.md)
 
 ## Online Books
 
