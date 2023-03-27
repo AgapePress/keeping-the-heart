@@ -9,7 +9,7 @@
 3. [Reasons Why this Should be the Great Business of Life](https://github.com/AgapePress/keeping-the-heart/blob/master/eng/chapter-03.md)
 4. [The Time of Prosperity](https://github.com/AgapePress/keeping-the-heart/blob/master/eng/chapter-04.md)
 5. [The Time of Adversity](https://github.com/AgapePress/keeping-the-heart/blob/master/eng/chapter-05.md)
-6. [The Time of Zion's Troubles](https://github.com/AgapePress/keeping-the-heart/blob/master/eng/chapter-06.md)
+6. [The Time of Zion’s Troubles](https://github.com/AgapePress/keeping-the-heart/blob/master/eng/chapter-06.md)
 7. [The Time of Danger and Public Distraction](https://github.com/AgapePress/keeping-the-heart/blob/master/eng/chapter-07.md)
 8. [The Time of Outward Wants](https://github.com/AgapePress/keeping-the-heart/blob/master/eng/chapter-08.md)
 9. [The Season of Duty](https://github.com/AgapePress/keeping-the-heart/blob/master/eng/chapter-09.md)
